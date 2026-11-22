@@ -1,0 +1,351 @@
+{
+  "meta": { "siteName": "S59 Events", "titleSuffix": " | S59 Events", "langName": "English" },
+  "nav": { "about": "About", "services": "Services", "packages": "Packages", "approach": "Our Approach", "portfolio": "Portfolio", "calculator": "Estimate", "faq": "FAQ", "enquire": "Enquire", "menu": "Menu", "close": "Close" },
+  "common": { "explore": "Explore", "beginEvent": "Begin Your Event", "learnMore": "Learn more", "allServices": "All services" },
+  "home": {
+    "seo": { "title": "S59 Events — Luxury Event Agency in Warsaw | Private & Corporate Events", "description": "S59 is a boutique full-service event agency in Warsaw creating bespoke private celebrations, weddings and corporate events across Poland and Europe. Where every detail shapes the experience." },
+    "hero": { "eyebrow": "Full-service event agency · Warsaw", "title": "Where every *detail* shapes the experience", "subtitle": "We design and deliver private celebrations, weddings and corporate events of exceptional quality — in Warsaw, across Poland and throughout Europe.", "ctaPrimary": "Begin Your Event", "ctaSecondary": "Discover Our Approach" },
+    "intro": { "eyebrow": "S59 Events", "title": "Beyond event planning. *Into emotional experiences.*", "text": "We create extraordinary experiences that take people beyond the ordinary — into thoughtfully designed worlds where every detail matters and every moment feels magical.\n\nFor us, an event is never just a date, a venue and a guest list. It is an atmosphere you step into, a story that unfolds and a feeling that stays long after the last guest has left.", "link": "About S59" },
+    "categories": { "eyebrow": "What we create", "title": "Events, *thoughtfully* designed" },
+    "philosophy": { "eyebrow": "Our philosophy", "title": "Luxury is in *every* detail", "text": "Luxury is not only about beautiful spaces, rare materials or scale. It lives in a considered concept, a personal approach, flawless execution and the comfort you feel at every step of the process.\n\nAt S59, luxury means aesthetics, personalisation and impeccable service — brought together into one seamless experience." },
+    "why": { "eyebrow": "Why S59", "title": "What makes an S59 event *different*", "items": [
+      { "title": "Experiences, not just events", "text": "We design more than a venue, décor and a programme. We design the atmosphere, the emotional flow of the evening and the way every guest feels inside it." },
+      { "title": "One partner, from idea to final detail", "text": "Your personal Event Manager leads the entire journey — concept, budget, venues, suppliers, production and the day itself. You never have to coordinate a single vendor." },
+      { "title": "Bespoke by nature", "text": "No templates and no repeated formulas. Every concept, visual direction and scenario is created for you and only for you." },
+      { "title": "Attention to every detail", "text": "Lighting, music, invitations, seating, the welcome moment, the transitions between parts of the evening — the small things are what make an event unforgettable." },
+      { "title": "An elevated guest experience", "text": "We care for every guest, not only the host: personal attention, comfort and thoughtful gestures from the first invitation to the farewell." }
+    ] },
+    "approach": { "eyebrow": "Our approach", "title": "From the first conversation to the *last goodbye*", "items": [
+      { "title": "Listen", "text": "We begin by understanding you: the occasion, your guests, your style and the emotions you want to create." },
+      { "title": "Imagine", "text": "We develop a bespoke concept with moodboards, a visual direction and the structure of the event." },
+      { "title": "Curate & plan", "text": "We select the venue and the right partners, build the budget and manage every element of preparation." },
+      { "title": "Celebrate", "text": "On the day, our team runs everything behind the scenes, so you can be fully present." }
+    ], "cta": "See How We Work" },
+    "packages": { "eyebrow": "Ways to work with us", "title": "Three levels of *full-service* planning", "text": "Every S59 package is complete, turnkey event planning — never a partial service. What differs is the depth of personalisation, the creative complexity and the scale of production.", "cta": "Compare Packages" },
+    "calculator": { "eyebrow": "Event estimate", "title": "Plan your *investment*", "text": "Choose the type of event, the number of guests and the level of planning to see an indicative budget range in under a minute.", "cta": "Calculate Your Event" },
+    "quote": { "text": "You should enjoy the experience, not manage the process.", "sub": "On the day of your event, you should feel not like its organiser, but like its most important guest." },
+    "portfolio": { "eyebrow": "Selected works", "title": "Worlds we have *created*", "cta": "View Portfolio" },
+    "testimonials": { "eyebrow": "Kind words", "title": "What our clients *feel*" },
+    "instagram": { "eyebrow": "Selected moments", "title": "A glimpse into *our world*", "caption": "Follow our work on Instagram" },
+    "cta": { "title": "Let's create something *unforgettable*", "text": "Tell us about the moment you want to celebrate. We'll respond within one business day to arrange a personal consultation.", "button": "Begin Your Event" }
+  },
+  "about": {
+    "seo": { "title": "About S59 Events — Boutique Luxury Event Agency in Warsaw", "description": "Discover the philosophy behind S59 Events: bespoke concepts, refined aesthetics and flawless execution for private and corporate events in Poland and Europe." },
+    "hero": { "eyebrow": "About S59", "title": "We don't simply organise events. *We create worlds.*", "subtitle": "S59 is a boutique, full-service event agency based in Warsaw, devoted to private celebrations, corporate events and brand experiences of the highest standard." },
+    "story": { "title": "Our *story*", "text": "S59 was born from a simple belief: that the most meaningful moments in life deserve more than good organisation — they deserve to be felt.\n\nWhat people remember is never the checklist. It is the atmosphere, the care and the feeling of being looked after.\n\nToday, S59 brings together creative vision and a rigorous organisational system — so that every event is both beautiful and flawlessly delivered.", "signature": "Founder & Creative Director" },
+    "mission": { "eyebrow": "Our mission", "text": "To create exceptional events through thoughtful design, bespoke concepts and flawless execution — turning meaningful moments into unforgettable experiences." },
+    "philosophy": { "eyebrow": "Our philosophy", "title": "Luxury is in *every* detail", "text": "We believe luxury is not measured by size or spectacle. It is found in a concept that feels personal, in an atmosphere that feels effortless and in a level of care that you notice in every moment — and in the moments you never have to think about at all.\n\nWe prefer understated elegance to excess, meaning to decoration, and quality to quantity." },
+    "values": { "eyebrow": "Our values", "items": [
+      { "title": "Aesthetics", "text": "Visual harmony, style and a refined eye for detail." },
+      { "title": "Exclusivity", "text": "Bespoke concepts, never templates." },
+      { "title": "Excellence", "text": "The highest standards of planning and delivery." },
+      { "title": "Emotion", "text": "Atmosphere and experiences that stay in memory." },
+      { "title": "Personal approach", "text": "A deep understanding of your needs and dedicated, personal guidance." }
+    ] },
+    "experience": { "eyebrow": "The S59 experience", "title": "What we *design for*", "items": [
+      { "title": "Anticipation", "text": "The excitement that begins long before the event, from the very first invitation." },
+      { "title": "Wonder", "text": "The moment of surprise and delight as guests step inside." },
+      { "title": "Connection", "text": "The bond between the people who share the evening." },
+      { "title": "Belonging", "text": "The feeling of being welcomed, noticed and cared for." },
+      { "title": "Memorability", "text": "Impressions that remain long after the event has ended." }
+    ], "text": "We want you and your guests to remember not only how the event looked, but how it felt to be there." },
+    "manager": { "title": "One person who knows *every detail*", "text": "Every S59 client is guided by a personal Event Manager — your single point of contact from the first meeting to the final goodbye.\n\nYour Event Manager coordinates the team and every supplier, oversees timelines and budget, brings key decisions to you with clear recommendations, and personally ensures the quality of every element. You never have to repeat your wishes twice or deal with dozens of contractors." },
+    "principles": { "title": "Our service *principles*", "items": [
+      { "title": "Anticipation", "text": "We foresee your needs and solve questions before they arise." },
+      { "title": "Personalisation", "text": "Every experience is shaped around you." },
+      { "title": "Reliability", "text": "We keep our promises, timelines and budgets." },
+      { "title": "Attention to detail", "text": "Nothing is too small to matter." },
+      { "title": "Emotional connection", "text": "We create atmosphere and emotions that last." }
+    ] },
+    "where": { "title": "Based in Warsaw. *Creating across Europe.*", "text": "S59 is based in Warsaw and works across Poland, with a growing network of trusted partners throughout Europe. International projects are welcomed on request." },
+    "vision": { "eyebrow": "Our vision", "text": "To become a recognised international premium event agency, known for its aesthetic approach, original concepts and exceptional standards of execution — in Europe and beyond." },
+    "cta": { "title": "Let's begin with a *conversation*", "button": "Enquire" }
+  },
+  "servicesPage": {
+    "seo": { "title": "Event Services — Private, Wedding & Corporate Events in Warsaw", "description": "Full-service planning for luxury birthdays, private dinners, weddings, children's celebrations, corporate gala dinners and brand events in Warsaw and across Europe." },
+    "hero": { "eyebrow": "Services", "title": "Every occasion, designed as *an experience*", "subtitle": "Whether it is an intimate dinner for twelve or a gala evening for hundreds, every S59 event is planned in full — from the first idea to the final detail." },
+    "fullService": { "title": "Full-service. Turnkey. *Entirely yours.*", "text": "S59 is a full-service event agency. This means you receive not a single service, but a complete solution: concept, budget, venue, suppliers, design, guest experience, programme and on-the-day management — all handled by one team and one dedicated Event Manager." },
+    "extras": { "title": "Enhancements to make it *truly yours*", "text": "Beyond our core planning, we can add elements that deepen the experience. They may be included in your package or arranged separately, through our team or our trusted network of partners.", "items": [
+      { "title": "Guest experience", "text": "Personalised invitations, welcome gifts, bespoke stationery, guest concierge, personal touches for every guest." },
+      { "title": "Entertainment", "text": "Live music and DJs, artists and special performances, show programmes, interactive and unusual formats." },
+      { "title": "Event design", "text": "Bespoke décor, floral design, installations and photo areas, scenography, branded design elements." },
+      { "title": "Media production", "text": "Photography, videography, event recap films, behind-the-scenes content, social media content." },
+      { "title": "Hospitality", "text": "Bespoke menus, catering, bar and beverages, tastings, signature gastronomic concepts." },
+      { "title": "Logistics", "text": "VIP transfers, guest transportation, accommodation, travel coordination." },
+      { "title": "Special requests", "text": "Surprises, unique activities and ideas that exist only for your event." }
+    ] },
+    "cta": { "title": "Tell us what you are *celebrating*", "button": "Begin Your Event" }
+  },
+  "services": [
+    {
+      "slug": "private-celebrations",
+      "title": "Private Celebrations",
+      "short": "Luxury birthdays, anniversaries, private dinners and family milestones — created around the people you celebrate.",
+      "tags": "Luxury birthdays · Private dinners · Anniversaries · Family celebrations · Personal milestones",
+      "seo": { "title": "Luxury Private Events & Birthday Planning in Warsaw", "description": "Bespoke luxury birthdays, private dinners, anniversaries and family celebrations in Warsaw — fully planned, beautifully designed and discreetly delivered by S59 Events." },
+      "hero": { "eyebrow": "Private celebrations", "title": "Celebrations as personal as *the people behind them*", "subtitle": "Luxury birthdays, private dinners, anniversaries and family milestones — designed around your story and delivered with absolute discretion.", "cta": "Plan Your Celebration" },
+      "intro": "The most important moments in life are rarely about the event itself. They are about the people around the table, the memories you share and the feeling you want to give the ones you love.\n\nWe create private celebrations that feel effortless for you and unforgettable for your guests — while every detail is quietly taken care of.",
+      "listTitle": "What we *create*",
+      "items": [
+        { "title": "Luxury birthdays", "text": "From elegant milestone birthdays to immersive themed evenings, each one built around the person at its heart." },
+        { "title": "Private dinners", "text": "Intimate dinners in exceptional settings, with bespoke menus, refined table design and an atmosphere made for conversation." },
+        { "title": "Anniversaries", "text": "Celebrations of years together, told through details that hold personal meaning." },
+        { "title": "Family celebrations", "text": "Gatherings that bring generations together in comfort and style." },
+        { "title": "Personal milestones", "text": "Any moment worth marking, created exactly the way you imagine it." }
+      ],
+      "extraTitle": "What you can *expect*",
+      "extraList": [
+        "A concept created for you, never repeated for anyone else.",
+        "A personal Event Manager who handles every supplier and every decision with you.",
+        "Access to exceptional venues, private spaces and trusted partners.",
+        "Complete confidentiality and discretion.",
+        "Minimal involvement on your side — you approve the key choices, we handle the rest.",
+        "A day on which you are free to simply be with your guests."
+      ],
+      "noteTitle": "Your privacy is part of *the service*",
+      "noteText": "Many of our clients value privacy as much as beauty. Every detail of your event, your guest list and your personal information is treated with complete confidentiality. We never share images of private events without your explicit consent.",
+      "cta": { "title": "What would you like to *celebrate?*", "text": "", "button": "Begin Your Event" }
+    },
+    {
+      "slug": "weddings-engagements",
+      "title": "Weddings & Engagements",
+      "short": "Engagement celebrations and weddings with a vision entirely your own, planned with calm precision.",
+      "tags": "Weddings · Engagement celebrations · Intimate ceremonies · Pre-wedding events",
+      "seo": { "title": "Luxury Wedding Planner in Warsaw & Europe", "description": "Bespoke luxury weddings and engagement celebrations in Warsaw, Poland and across Europe. Full-service planning, refined design and calm, flawless coordination." },
+      "hero": { "eyebrow": "Weddings & engagements", "title": "Your story, *beautifully told*", "subtitle": "Weddings and engagement celebrations with a vision entirely your own — planned with calm precision, so you can live every moment of it.", "cta": "Begin Your Wedding Journey" },
+      "intro": "A wedding is one of the few days in life you will want to remember in every detail. Our role is to make sure you can.\n\nFrom the first idea to the final dance, we design a celebration that reflects who you are as a couple — and we manage everything behind the scenes, so that you, your family and your guests can be fully present.",
+      "listTitle": "What we *create*",
+      "items": [
+        { "title": "Weddings", "text": "Complete planning and design, from intimate ceremonies to grand celebrations." },
+        { "title": "Engagement celebrations", "text": "Elegant evenings to share the beginning of your story with the people you love." },
+        { "title": "Pre-wedding events", "text": "Welcome dinners, rehearsal dinners and gatherings that make the celebration last longer." },
+        { "title": "Destination weddings", "text": "Celebrations across Poland and Europe, coordinated with our network of trusted partners." }
+      ],
+      "extraTitle": "How we plan *your wedding*",
+      "extraList": [
+        "Your vision — we start by listening: your story, your style, your priorities and the atmosphere you dream of.",
+        "The concept — a bespoke design direction with moodboards, colour palette, floral and décor concepts.",
+        "The planning — venue, suppliers, budget, guest management and timeline, all coordinated by your Event Manager.",
+        "The day — our team manages every moment so that you never have to look at a watch or answer a phone."
+      ],
+      "noteTitle": "",
+      "noteText": "",
+      "cta": { "title": "Let's begin *your story*", "text": "", "button": "Enquire About Your Wedding" }
+    },
+    {
+      "slug": "childrens-celebrations",
+      "title": "Children's Celebrations",
+      "short": "Imaginative, beautifully crafted celebrations for the youngest guests — and an effortless day for their parents.",
+      "tags": "Luxury children's parties · Themed birthdays · Bespoke concepts",
+      "seo": { "title": "Luxury Children's Parties & Themed Birthdays in Warsaw", "description": "Imaginative, beautifully designed children's celebrations and themed birthdays in Warsaw. Bespoke concepts, safe and seamless organisation, effortless for parents." },
+      "hero": { "eyebrow": "Children's celebrations", "title": "Where imagination *comes to life*", "subtitle": "Beautifully crafted celebrations for the youngest guests — and a relaxed, effortless day for their parents.", "cta": "Plan a Celebration" },
+      "intro": "Children remember how a day made them feel: the wonder of walking into a world created just for them, the surprises, the laughter.\n\nWe design children's celebrations with the same care, aesthetics and attention to detail as every S59 event — with original concepts, refined décor and a programme tailored to the age and personality of your child.",
+      "listTitle": "What we *create*",
+      "items": [
+        { "title": "Luxury children's celebrations", "text": "Elegant celebrations designed to delight both children and adults." },
+        { "title": "Themed birthday parties", "text": "Immersive worlds built around your child's favourite stories, colours and dreams." },
+        { "title": "Bespoke concepts", "text": "Entirely original ideas, created from scratch for one unique celebration." }
+      ],
+      "extraTitle": "Peace of mind *for parents*",
+      "extraList": [
+        "Carefully selected, experienced entertainers and partners.",
+        "A programme adapted to the children's age and rhythm.",
+        "Thoughtful comfort for adult guests too.",
+        "A coordinated team on site, so you can enjoy the moment with your child."
+      ],
+      "noteTitle": "",
+      "noteText": "",
+      "cta": { "title": "Let's create a day *they'll never forget*", "text": "", "button": "Begin Your Event" }
+    },
+    {
+      "slug": "corporate-events",
+      "title": "Corporate Events",
+      "short": "Gala dinners, company anniversaries, VIP client evenings and executive meetings that reflect your company's standards.",
+      "tags": "Gala dinners · Company anniversaries · VIP client events · Networking · Conferences · Team celebrations",
+      "seo": { "title": "Corporate Event Agency in Warsaw — Gala Dinners, VIP & Executive Events", "description": "Premium corporate events in Warsaw and across Europe: gala dinners, company anniversaries, VIP client events, conferences and team celebrations — professionally managed from brief to delivery." },
+      "hero": { "eyebrow": "Corporate events", "title": "Corporate events that reflect *your standards*", "subtitle": "Gala dinners, company anniversaries, VIP client evenings and executive meetings — professionally managed, creatively designed and flawlessly delivered.", "cta": "Request a Proposal" },
+      "intro": "A corporate event speaks on behalf of your company. It shapes how clients, partners and employees perceive your brand — and how they feel about working with you.\n\nS59 combines rigorous project management with creative event design, delivering events that strengthen relationships, support your business goals and leave a lasting impression.",
+      "listTitle": "What we *create*",
+      "items": [
+        { "title": "Corporate gala dinners", "text": "Elegant evenings for celebrations, awards and milestones." },
+        { "title": "Company anniversaries", "text": "Events that honour your history and inspire what comes next." },
+        { "title": "VIP client & partner events", "text": "Exclusive experiences that build loyalty and long-term relationships." },
+        { "title": "Business & networking events", "text": "Thoughtfully structured evenings that make meaningful connections easy." },
+        { "title": "Conferences & executive meetings", "text": "Seamless organisation for leadership gatherings, retreats and business meetings." },
+        { "title": "Team celebrations", "text": "Corporate parties and team events your people will genuinely look forward to." },
+        { "title": "Brand-related corporate events", "text": "Openings, presentations and events that bring your company identity to life." }
+      ],
+      "extraTitle": "Why companies *work with S59*",
+      "extraList": [
+        "Professional project management — a clear plan, defined milestones and one accountable Event Manager.",
+        "Transparent budget control — a detailed budget, approved upfront, with any change agreed before it happens.",
+        "Concepts aligned with your brand — creative ideas that reflect your company's identity and objectives.",
+        "Trusted suppliers — a curated network of venues, production teams and specialists.",
+        "Risk management — contingency plans prepared in advance, so the event runs smoothly whatever happens.",
+        "Clear communication — regular updates for your marketing, HR or executive team, and quick responses when it matters."
+      ],
+      "noteTitle": "Who we *work with*",
+      "noteText": "We work with international companies, corporations and premium businesses, as well as founders, executive teams, marketing and HR departments and executive assistants who need an event partner they can fully rely on.",
+      "cta": { "title": "Planning a *corporate event?*", "text": "Share your brief and we'll prepare a tailored proposal with a concept, scope and preliminary budget.", "button": "Request a Proposal" }
+    },
+    {
+      "slug": "brand-lifestyle-events",
+      "title": "Brand & Lifestyle Events",
+      "short": "Product launches, brand activations and private brand dinners that turn an audience into a lasting connection.",
+      "tags": "Product launches · Brand activations · Influencer events · Press events · VIP brand experiences · Private brand dinners",
+      "seo": { "title": "Brand Activations, Product Launches & Influencer Events in Warsaw", "description": "Product launches, brand activations, influencer and press events, VIP brand experiences and private brand dinners — designed to create emotional connection with your audience." },
+      "hero": { "eyebrow": "Brand & lifestyle events", "title": "Experiences that connect *brands with people*", "subtitle": "Product launches, brand activations and private brand dinners for fashion, beauty, hospitality and lifestyle brands.", "cta": "Discuss a Collaboration" },
+      "intro": "People remember brands that make them feel something. We design brand experiences that translate your identity into atmosphere, engagement and a genuine emotional connection — with your clients, your community and the press.",
+      "listTitle": "What we *create*",
+      "items": [
+        { "title": "Product launches", "text": "Memorable presentations of new products and collections." },
+        { "title": "Brand activations", "text": "Immersive experiences that bring your brand to life." },
+        { "title": "Influencer events", "text": "Beautifully designed events made to be experienced — and shared." },
+        { "title": "Press events", "text": "Professional presentations for media and industry guests." },
+        { "title": "VIP brand experiences", "text": "Exclusive events for your most valued clients." },
+        { "title": "Private brand dinners", "text": "Intimate dinners that build relationships around your brand." }
+      ],
+      "extraTitle": "",
+      "extraList": [],
+      "noteTitle": "",
+      "noteText": "",
+      "cta": { "title": "Let's create your brand's *next moment*", "text": "", "button": "Discuss a Collaboration" }
+    }
+  ],
+  "packagesPage": {
+    "seo": { "title": "Event Planning Packages — Signature, Exclusive, Bespoke", "description": "Three levels of full-service event planning: S59 Signature, S59 Exclusive and S59 Bespoke. Every package is complete, turnkey organisation — the difference lies in depth." },
+    "hero": { "eyebrow": "Ways to work with us", "title": "Three packages. *One standard of excellence.*", "subtitle": "Every S59 package is complete, turnkey event planning — from the first idea to the final detail. The difference lies not in what is included, but in how deeply every element is developed." },
+    "packages": [
+      { "key": "signature", "name": "S59 Signature", "subtitle": "A complete, turnkey event with a bespoke concept.", "text": "For clients who want a beautiful, thoughtfully designed and professionally delivered event, with an individual concept and the full support of the S59 team.", "includesTitle": "Included", "includes": ["Initial consultation and detailed brief", "A bespoke event concept", "Budget and delivery plan", "Venue search and selection", "Selection and coordination of all suppliers", "Décor, floral design and styling of the space", "Catering and beverages", "Entertainment, artists and hosts", "Technical production", "Invitations and guest list management", "Detailed event timeline", "Coordination of all preparations", "Supervision of set-up on site", "The S59 team present and managing the event on the day", "Supervision of breakdown and completion"], "cta": "Enquire About Signature" },
+      { "key": "exclusive", "name": "S59 Exclusive", "subtitle": "Turnkey planning with enhanced personalisation and service.", "text": "For clients who want a deeper creative concept, a distinctive atmosphere, more elaborate design and an elevated level of care for every guest.", "includesTitle": "Everything in Signature, plus", "includes": ["In-depth creative concept and event scenario", "Individual event design and more elaborate styling", "Personalised details throughout the event", "Extended selection of exclusive venues and suppliers", "Wider entertainment options and special performances", "Personalised invitations and welcome gifts", "An enhanced guest experience and guest hosting", "Additional coordinators and specialists, depending on scale", "Detailed development of atmosphere, visuals and guest interaction", "Extended technical and creative production"], "cta": "Enquire About Exclusive" },
+      { "key": "bespoke", "name": "S59 Bespoke", "subtitle": "An entirely original event, created from a blank page.", "text": "For clients who want to bring an extraordinary idea to life — a large-scale project, a multi-day celebration or an event with exceptional creative, production or service requirements.", "includesTitle": "Everything in Exclusive, plus", "includes": ["A unique concept created from scratch", "Fully individual design of the space, décor and scenography", "Exclusive décor and custom production solutions", "Special artists, performers and international partners", "Complex scenarios and multi-layered event programmes", "Multi-day events and events across several venues", "A dedicated project team assembled for your event", "Extended VIP and concierge service", "Maximum personalisation of every element", "Personal guidance throughout the entire project", "Realisation of non-standard ideas and special wishes"], "cta": "Enquire About Bespoke" }
+    ],
+    "compare": { "title": "Compare *the packages*", "text": "All three packages provide the full cycle of event planning. The comparison reflects not the number of services, but the depth of their development and the level of service.", "headers": ["", "Signature", "Exclusive", "Bespoke"], "rows": [
+      ["Turnkey organisation", "Complete", "Complete", "Complete"],
+      ["Event concept", "Bespoke", "Extended", "Entirely unique"],
+      ["Venue & supplier selection", "Included", "Extended selection", "Individually curated"],
+      ["Planning & budgeting", "Complete", "Complete", "Fully individual"],
+      ["Event coordination", "Complete", "Extended", "Dedicated project team"],
+      ["Event design & décor", "Within the concept", "Enhanced", "Exclusive"],
+      ["Personalisation", "Individual approach", "Extended", "Maximum"],
+      ["Guest experience", "Fully organised", "Enhanced service", "VIP & concierge"],
+      ["Entertainment", "Tailored to the format", "Extended options", "Exclusive solutions"],
+      ["Technical production", "As the project requires", "Extended options", "Custom production"],
+      ["Team on the day", "Full coordination", "Extended team", "Dedicated project team"],
+      ["Complex & multi-day events", "On request", "Depending on project", "Core focus"]
+    ] },
+    "pricing": { "title": "How we shape *your investment*", "text": "Every S59 event is unique, so we don't offer fixed price lists. Your investment is calculated individually, based on:", "factors": ["The format and type of event", "The number of guests", "The complexity and scale of the concept", "The chosen venue", "The scope of décor and production", "The partners and suppliers involved", "The level of service required", "The duration of the event", "Your personal wishes"], "after": "After our first consultation, we prepare a tailored proposal outlining the concept, the scope of services, a preliminary budget and the terms of delivery — so you know exactly what is included before any commitment." },
+    "help": { "title": "Not sure which package is *right?*", "text": "You don't need to decide now. Tell us about your event, and we'll recommend the level of planning that best suits your vision.", "button": "Book a Consultation", "calc": "Get an Estimate" }
+  },
+  "approachPage": {
+    "seo": { "title": "Our Event Planning Process — From Idea to Unforgettable", "description": "How S59 Events works: consultation, bespoke concept, budget, venues and suppliers, design and production, guest experience, flawless event-day management and aftercare." },
+    "hero": { "eyebrow": "Our approach", "title": "You enjoy the experience. *We manage the process.*", "subtitle": "A clear, carefully structured process — so that every detail is under control and you can enjoy the journey as much as the event itself." },
+    "steps": [
+      { "title": "Consultation & brief", "text": "We begin with a personal meeting to understand your goals, your wishes and the atmosphere you want to create. We discuss the format, date, number of guests, budget and level of service. Our aim is not just to receive a brief, but to understand the emotions you want to give your guests." },
+      { "title": "Concept & proposal", "text": "We develop the idea, theme and atmosphere of your event, with moodboards, visual references and the structure of the programme. You receive a tailored proposal with the concept, recommendations for venues and design, a preliminary budget and the proposed package. We don't hand you a list of options to figure out — we bring considered recommendations." },
+      { "title": "Confirmation & planning", "text": "Once the proposal is approved, we sign the agreement, confirm the budget and scope, and assign your personal Event Manager. Together, we agree on a communication schedule and the key milestones of the project." },
+      { "title": "Venue, partners & design", "text": "We select and secure the venue, curate and coordinate every supplier — décor, florals, catering, photography, technical teams, artists — and oversee the production of every bespoke element. The budget is monitored at every stage, and any change is agreed with you before it happens." },
+      { "title": "Guests & programme", "text": "We manage invitations, RSVPs and seating, prepare the welcome experience, gifts and personal touches, and arrange transfers or accommodation when needed. In parallel, we build the programme: hosts, music, performances and interactive moments, all aligned to a precise timeline." },
+      { "title": "Final preparations", "text": "Before the event, we confirm every supplier, check the venue and technical setup, finalise the timeline and guest numbers, brief the team and prepare alternative solutions for any unforeseen situation." },
+      { "title": "The event day", "text": "Our team oversees set-up, checks every element, coordinates suppliers, welcomes your guests and keeps the timeline flowing. Any question is resolved quietly, without involving you — so you can be fully present." },
+      { "title": "Aftercare", "text": "We supervise breakdown, close all organisational and financial matters, deliver photos and videos once prepared by our partners, and ask for your feedback. For us, the relationship doesn't end when the event does." }
+    ],
+    "comms": { "title": "Our promise of *communication*", "items": ["A response to every enquiry within one business day.", "No message left unanswered.", "Regular updates on the progress of your project.", "Clear explanations of timelines, stages and the decisions needed from you.", "Concrete recommendations, not open questions.", "Every budget change agreed before it is made.", "Quick responses to urgent matters.", "Full confidentiality of all your information."] },
+    "cta": { "title": "Ready to *begin?*", "button": "Book Your Consultation" }
+  },
+  "portfolioPage": {
+    "seo": { "title": "Portfolio — Luxury Private & Corporate Events", "description": "Selected private celebrations, weddings and corporate events created by S59 Events in Warsaw and across Europe." },
+    "hero": { "eyebrow": "Portfolio", "title": "Selected *works*", "subtitle": "A glimpse into the worlds we have created." },
+    "all": "All",
+    "empty": "Our first stories are being prepared. Follow us on Instagram to see new projects as they happen.",
+    "briefLabel": "The brief",
+    "conceptLabel": "The concept",
+    "detailsLabel": "The details",
+    "guestsLabel": "Guests",
+    "backLabel": "All projects",
+    "cta": { "title": "Imagine *your own*", "button": "Begin Your Event" }
+  },
+  "faqPage": {
+    "seo": { "title": "Frequently Asked Questions", "description": "Answers to common questions about planning a private or corporate event with S59 Events: packages, pricing, timelines, locations and confidentiality." },
+    "hero": { "eyebrow": "FAQ", "title": "Frequently asked *questions*" },
+    "items": [
+      { "q": "What does \"full-service\" mean?", "a": "It means we take care of the entire event — concept, budget, venue, suppliers, design, guests, programme and on-the-day management. You have one partner and one personal Event Manager throughout the whole process." },
+      { "q": "What is the difference between Signature, Exclusive and Bespoke?", "a": "All three are complete, turnkey planning packages. The difference lies in the depth of personalisation, creative complexity, scale of production and level of guest service. Signature delivers a complete event with a bespoke concept; Exclusive adds deeper design and an enhanced guest experience; Bespoke is created entirely from scratch, without limits." },
+      { "q": "How much does an event cost?", "a": "Every event is unique, so we calculate each project individually based on its format, number of guests, venue, scope of design and production and the level of service. You can get an indicative range with our online estimate, and after our first consultation you receive a tailored proposal with a preliminary budget." },
+      { "q": "How far in advance should I contact you?", "a": "We recommend 3–6 months for private celebrations and corporate events, and 9–12 months for weddings and large-scale projects. If your date is sooner, contact us anyway — we will always tell you honestly what is possible." },
+      { "q": "Do you only work in Warsaw?", "a": "We are based in Warsaw and work across Poland. We also create events throughout Europe, and international projects are welcomed on request." },
+      { "q": "Can you work with a venue or supplier I have already chosen?", "a": "Of course. We are happy to collaborate with your chosen venue or partners and integrate them into the overall concept and coordination." },
+      { "q": "How involved will I need to be?", "a": "As much or as little as you wish. You approve the key decisions; we handle everything else. Our principle is simple: you should enjoy the experience, not manage the process." },
+      { "q": "Will I have one person to contact?", "a": "Yes. Your personal Event Manager is your single point of contact from the first meeting to the final goodbye." },
+      { "q": "Do you plan intimate events?", "a": "Yes. Scale does not define an S59 event — care does. We plan intimate dinners as thoughtfully as large celebrations." },
+      { "q": "Is my information kept confidential?", "a": "Always. All details of your event, your guests and your personal information are treated with complete discretion. We never publish images of private events without your consent." },
+      { "q": "Can you organise transfers and accommodation for guests?", "a": "Yes. We can arrange VIP transfers, guest transportation, accommodation and full travel coordination." },
+      { "q": "Do you organise corporate events outside of Poland?", "a": "Yes. We coordinate events across Europe through our network of trusted partners." },
+      { "q": "What happens after I submit an enquiry?", "a": "We respond within one business day to arrange a personal consultation — in person in Warsaw, by phone or online." }
+    ],
+    "cta": { "text": "Still have a question? We'd be delighted to help.", "button": "Contact Us" }
+  },
+  "calculatorPage": {
+    "seo": { "title": "Event Budget Estimate", "description": "Get an indicative budget range for your private celebration, wedding or corporate event in Warsaw in under a minute." },
+    "hero": { "eyebrow": "Event estimate", "title": "Plan your *investment*", "subtitle": "Choose the type of event, the number of guests and the level of planning. You'll see an indicative budget range — your exact proposal is prepared after a personal consultation." },
+    "typeLabel": "Type of event",
+    "guestsLabel": "Number of guests",
+    "packageLabel": "Level of planning",
+    "extrasLabel": "Enhancements",
+    "resultLabel": "Indicative budget",
+    "fromLabel": "from",
+    "toLabel": "to",
+    "perGuest": "per guest",
+    "includes": "Includes concept, planning, venue and supplier coordination, décor, catering and on-the-day management at the chosen level.",
+    "disclaimer": "This is an indicative range, not an offer. The final budget depends on the venue, date, scope of production and your wishes, and is confirmed in a personal proposal.",
+    "send": "Send this estimate & enquire",
+    "contact": "Prefer to talk? Call or message us."
+  },
+  "contactPage": {
+    "seo": { "title": "Enquire — Plan Your Event With S59 Events, Warsaw", "description": "Tell us about your event. S59 Events responds within one business day to arrange a personal consultation for your private or corporate event." },
+    "hero": { "eyebrow": "Enquire", "title": "Let's create something *unforgettable*", "subtitle": "Tell us about the moment you want to create. Every detail you share helps us understand your vision — we'll respond within one business day to arrange a personal consultation." },
+    "form": {
+      "aboutYou": "About you",
+      "yourEvent": "Your event",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone number",
+      "company": "Company (for corporate events)",
+      "contactPref": "Preferred way of contact",
+      "contactPrefOptions": ["Email", "Phone", "WhatsApp", "Telegram"],
+      "eventType": "Type of event",
+      "eventTypeOther": "Other",
+      "date": "Preferred date or season",
+      "guests": "Estimated number of guests",
+      "guestsOptions": ["Up to 20", "20–50", "50–100", "100–200", "200+"],
+      "location": "Location",
+      "locationOptions": ["Warsaw", "Elsewhere in Poland", "Europe / International"],
+      "venue": "Venue",
+      "venueOptions": ["I already have a venue", "I need help finding one"],
+      "package": "Package of interest",
+      "packageNotSure": "Not sure yet — please advise",
+      "budget": "Estimated budget",
+      "budgetOptions": ["Up to 30 000 PLN", "30 000 – 60 000 PLN", "60 000 – 120 000 PLN", "120 000 – 250 000 PLN", "250 000 PLN +", "I'd prefer to discuss"],
+      "vision": "Tell us about your vision",
+      "visionPlaceholder": "The occasion, the atmosphere you imagine, anything that matters to you…",
+      "source": "How did you hear about us?",
+      "sourceOptions": ["Instagram", "LinkedIn", "Recommendation", "Venue / partner", "Search", "Other"],
+      "consent": "I agree to the processing of my personal data by S59 Events for the purpose of responding to my enquiry, in accordance with the Privacy Policy.",
+      "submit": "Send Enquiry",
+      "note": "We respond within one business day. Your information is kept strictly confidential.",
+      "estimate": "Your estimate",
+      "select": "Select…",
+      "required": "required"
+    },
+    "direct": { "title": "Prefer to talk *directly?*", "phone": "Phone / WhatsApp", "email": "Email", "instagram": "Instagram", "studio": "Studio", "studioValue": "Warsaw, Poland — meetings by appointment", "hours": "Hours", "hoursValue": "Monday – Friday, 10:00 – 19:00. Event days — always." },
+    "thanks": { "seoTitle": "Thank You", "title": "Thank *you*", "text": "Your enquiry has been received. Your vision is in good hands.", "text2": "A member of our team will contact you within one business day to arrange your personal consultation. In the meantime, you're welcome to explore our world on Instagram.", "instagram": "Follow on Instagram", "back": "Back to Home" },
+    "autoReply": { "subject": "Thank you for your enquiry — S59 Events", "body": "Dear {name},\n\nThank you for reaching out to S59 Events. We're delighted that you're considering us for your event.\n\nWe've received your enquiry and will contact you within one business day to arrange a personal consultation, where we'll explore your vision in more detail.\n\nWarm regards,\nThe S59 Events Team\nWhere Every Detail Shapes the Experience." }
+  },
+  "footer": { "tagline": "Where Every Detail Shapes the Experience.", "explore": "Explore", "services": "Services", "contact": "Contact", "follow": "Follow", "rights": "All rights reserved.", "privacy": "Privacy Policy", "cookies": "Cookie Policy", "terms": "Terms of Service" },
+  "legal": {
+    "privacy": { "title": "Privacy *Policy*", "body": "This Privacy Policy explains how S59 Events processes personal data submitted through this website.\n\n**Data controller**\nThe controller of your personal data is S59 Events, Warsaw, Poland. Company details are listed in the footer of this website. You can contact us using the details on the Enquire page.\n\n**What data we collect**\nWhen you submit an enquiry, we collect the information you provide: your name, email address, phone number, company (if given) and details about your planned event. We also store technical information required for the security of the website.\n\n**Why we process your data**\nWe process your data to respond to your enquiry, prepare a proposal and, if you decide to work with us, to plan and deliver your event (Art. 6(1)(b) GDPR), and on the basis of your consent given in the form (Art. 6(1)(a) GDPR).\n\n**How long we keep your data**\nEnquiries that do not lead to cooperation are deleted no later than 24 months after the last contact. Data of clients is kept for as long as required by accounting and tax law.\n\n**Who receives your data**\nYour data may be processed by our hosting and email providers and by trusted partners involved in your event, only to the extent necessary. We never sell your data.\n\n**Your rights**\nYou have the right to access, rectify and delete your data, to restrict processing, to data portability, to withdraw consent at any time and to lodge a complaint with the President of the Personal Data Protection Office (UODO).\n\n**Contact**\nFor any questions about your data, please contact us using the details on the Enquire page." },
+    "cookies": { "title": "Cookie *Policy*", "body": "This website uses only the cookies necessary for it to function correctly, such as remembering your language choice.\n\nIf we add analytics or marketing tools in the future, we will ask for your consent first and update this policy.\n\nYou can delete or block cookies at any time in your browser settings." },
+    "terms": { "title": "Terms of *Service*", "body": "This website is operated by S59 Events, Warsaw, Poland.\n\nAll texts, photographs, videos and graphic elements on this website, including the S59 logo, are the property of S59 Events or are used with the permission of their authors. They may not be copied or used without our written consent.\n\nInformation on this website, including the online estimate, is for informational purposes only and does not constitute an offer within the meaning of the Polish Civil Code. The terms of each event are set out in an individual agreement.\n\nWe make every effort to keep the information on this website accurate and up to date, but we accept no liability for any errors or interruptions in the operation of the website." }
+  },
+  "ui": { "cookieText": "We use only essential cookies to make this website work.", "cookieAccept": "OK", "notFoundTitle": "This page has *left the party*", "notFoundText": "The page you are looking for doesn't exist — but something beautiful still awaits.", "backHome": "Return Home", "formError": "Please complete the highlighted fields so we can get back to you.", "formSendError": "Something went wrong. Please try again, or contact us directly by phone or Instagram.", "sending": "Sending…", "skip": "Skip to content", "scroll": "Scroll" }
+}

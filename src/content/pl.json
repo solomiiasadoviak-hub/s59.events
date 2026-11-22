@@ -1,0 +1,351 @@
+{
+  "meta": { "siteName": "S59 Events", "titleSuffix": " | S59 Events", "langName": "Polski" },
+  "nav": { "about": "O nas", "services": "Usługi", "packages": "Pakiety", "approach": "Jak pracujemy", "portfolio": "Portfolio", "calculator": "Wycena", "faq": "FAQ", "enquire": "Zapytaj o event", "menu": "Menu", "close": "Zamknij" },
+  "common": { "explore": "Zobacz", "beginEvent": "Zaplanuj swój event", "learnMore": "Dowiedz się więcej", "allServices": "Wszystkie usługi" },
+  "home": {
+    "seo": { "title": "S59 Events — Agencja eventowa premium w Warszawie | Eventy prywatne i firmowe", "description": "S59 to butikowa agencja eventowa full-service w Warszawie. Tworzymy wyjątkowe przyjęcia prywatne, śluby i eventy firmowe w Polsce i w Europie." },
+    "hero": { "eyebrow": "Agencja eventowa full-service · Warszawa", "title": "Gdzie każdy *detal* kształtuje doświadczenie", "subtitle": "Projektujemy i realizujemy przyjęcia prywatne, śluby i eventy firmowe najwyższej jakości — w Warszawie, w całej Polsce i w Europie.", "ctaPrimary": "Zaplanuj swój event", "ctaSecondary": "Poznaj nasze podejście" },
+    "intro": { "eyebrow": "S59 Events", "title": "Więcej niż organizacja eventów. *Prawdziwe emocje.*", "text": "Tworzymy niezwykłe doświadczenia, które przenoszą ludzi poza codzienność — do starannie zaprojektowanych światów, w których liczy się każdy detal, a każda chwila ma w sobie odrobinę magii.\n\nDla nas event to nigdy tylko data, miejsce i lista gości. To atmosfera, w którą się wchodzi, historia, która się rozwija, i uczucie, które zostaje na długo po wyjściu ostatniego gościa.", "link": "Poznaj S59" },
+    "categories": { "eyebrow": "Co tworzymy", "title": "Eventy zaprojektowane *z myślą o Tobie*" },
+    "philosophy": { "eyebrow": "Nasza filozofia", "title": "Luksus tkwi w *każdym* detalu", "text": "Luksus to nie tylko piękne wnętrza, szlachetne materiały czy skala. Kryje się w przemyślanej koncepcji, indywidualnym podejściu, bezbłędnej realizacji i komforcie, który czujesz na każdym etapie.\n\nW S59 luksus oznacza estetykę, personalizację i nienaganną obsługę — połączone w jedno spójne doświadczenie." },
+    "why": { "eyebrow": "Dlaczego S59", "title": "Co wyróżnia *event S59*", "items": [
+      { "title": "Doświadczenia, nie tylko eventy", "text": "Projektujemy coś więcej niż miejsce, dekoracje i program. Projektujemy atmosferę, emocjonalny przebieg wieczoru i to, jak czuje się w nim każdy gość." },
+      { "title": "Jeden partner od pomysłu do ostatniego detalu", "text": "Twój osobisty Event Manager prowadzi cały proces — koncepcję, budżet, miejsca, podwykonawców, produkcję i sam dzień wydarzenia. Nie musisz koordynować żadnego dostawcy." },
+      { "title": "Indywidualność w naturze", "text": "Bez szablonów i powtarzalnych formuł. Każda koncepcja, kierunek wizualny i scenariusz powstają tylko dla Ciebie." },
+      { "title": "Dbałość o każdy detal", "text": "Światło, muzyka, zaproszenia, rozsadzenie gości, moment powitania, przejścia między częściami wieczoru — to drobiazgi sprawiają, że event zostaje w pamięci." },
+      { "title": "Wyjątkowe doświadczenie gości", "text": "Troszczymy się o każdego gościa, nie tylko o gospodarza: osobista uwaga, komfort i przemyślane gesty od pierwszego zaproszenia do pożegnania." }
+    ] },
+    "approach": { "eyebrow": "Nasze podejście", "title": "Od pierwszej rozmowy do *ostatniego pożegnania*", "items": [
+      { "title": "Słuchamy", "text": "Zaczynamy od zrozumienia Ciebie: okazji, gości, Twojego stylu i emocji, które chcesz wywołać." },
+      { "title": "Wyobrażamy", "text": "Tworzymy indywidualną koncepcję z moodboardami, kierunkiem wizualnym i strukturą wydarzenia." },
+      { "title": "Planujemy", "text": "Wybieramy miejsce i odpowiednich partnerów, budujemy budżet i prowadzimy każdy element przygotowań." },
+      { "title": "Świętujemy", "text": "W dniu wydarzenia nasz zespół czuwa nad wszystkim za kulisami, abyś mógł być w pełni obecny." }
+    ], "cta": "Zobacz, jak pracujemy" },
+    "packages": { "eyebrow": "Formy współpracy", "title": "Trzy poziomy *kompleksowej* organizacji", "text": "Każdy pakiet S59 to pełna organizacja eventu pod klucz — nigdy usługa częściowa. Różnią się głębią personalizacji, złożonością kreatywną i skalą produkcji.", "cta": "Porównaj pakiety" },
+    "calculator": { "eyebrow": "Wycena eventu", "title": "Zaplanuj swoją *inwestycję*", "text": "Wybierz rodzaj wydarzenia, liczbę gości i poziom organizacji, aby w minutę zobaczyć orientacyjny przedział budżetu.", "cta": "Oblicz swój event" },
+    "quote": { "text": "Ciesz się chwilą — organizację zostaw nam.", "sub": "W dniu wydarzenia masz czuć się nie jak organizator, lecz jak najważniejszy gość." },
+    "portfolio": { "eyebrow": "Wybrane realizacje", "title": "Światy, które *stworzyliśmy*", "cta": "Zobacz portfolio" },
+    "testimonials": { "eyebrow": "Opinie", "title": "Co czują *nasi klienci*" },
+    "instagram": { "eyebrow": "Wybrane chwile", "title": "Zajrzyj do *naszego świata*", "caption": "Obserwuj nas na Instagramie" },
+    "cta": { "title": "Stwórzmy coś *niezapomnianego*", "text": "Opowiedz nam o chwili, którą chcesz świętować. Odpowiemy w ciągu jednego dnia roboczego, aby umówić osobistą konsultację.", "button": "Zaplanuj swój event" }
+  },
+  "about": {
+    "seo": { "title": "O nas — S59 Events, butikowa agencja eventowa premium w Warszawie", "description": "Poznaj filozofię S59 Events: indywidualne koncepcje, wyrafinowana estetyka i bezbłędna realizacja eventów prywatnych i firmowych w Polsce i Europie." },
+    "hero": { "eyebrow": "O S59", "title": "Nie tylko organizujemy eventy. *Tworzymy światy.*", "subtitle": "S59 to butikowa agencja eventowa full-service z Warszawy, specjalizująca się w przyjęciach prywatnych, eventach firmowych i doświadczeniach marek na najwyższym poziomie." },
+    "story": { "title": "Nasza *historia*", "text": "S59 powstało z prostego przekonania: najważniejsze chwile w życiu zasługują na coś więcej niż dobrą organizację — zasługują na to, by je poczuć.\n\nLudzie nie pamiętają listy zadań. Pamiętają atmosferę, troskę i poczucie, że ktoś o nich zadbał.\n\nDziś S59 łączy kreatywną wizję z rygorystycznym systemem organizacji — tak, aby każdy event był zarówno piękny, jak i bezbłędnie zrealizowany.", "signature": "Founder & Creative Director" },
+    "mission": { "eyebrow": "Nasza misja", "text": "Tworzyć wyjątkowe wydarzenia dzięki przemyślanemu designowi, indywidualnym koncepcjom i bezbłędnej realizacji — zamieniając ważne chwile w niezapomniane doświadczenia." },
+    "philosophy": { "eyebrow": "Nasza filozofia", "title": "Luksus tkwi w *każdym* detalu", "text": "Wierzymy, że luksusu nie mierzy się rozmachem ani spektakularnością. Kryje się w koncepcji, która jest osobista, w atmosferze, która wydaje się naturalna, i w trosce, którą widać w każdej chwili — także w tych, o których nie musisz nawet myśleć.\n\nWybieramy dyskretną elegancję zamiast przepychu, znaczenie zamiast dekoracji i jakość zamiast ilości." },
+    "values": { "eyebrow": "Nasze wartości", "items": [
+      { "title": "Estetyka", "text": "Harmonia wizualna, styl i wyczucie detalu." },
+      { "title": "Ekskluzywność", "text": "Indywidualne koncepcje, nigdy szablony." },
+      { "title": "Doskonałość", "text": "Najwyższe standardy planowania i realizacji." },
+      { "title": "Emocje", "text": "Atmosfera i przeżycia, które zostają w pamięci." },
+      { "title": "Indywidualne podejście", "text": "Głębokie zrozumienie Twoich potrzeb i osobiste wsparcie." }
+    ] },
+    "experience": { "eyebrow": "Doświadczenie S59", "title": "Co *projektujemy*", "items": [
+      { "title": "Oczekiwanie", "text": "Ekscytacja, która zaczyna się na długo przed eventem, już od pierwszego zaproszenia." },
+      { "title": "Zachwyt", "text": "Chwila zaskoczenia i radości, gdy goście wchodzą do środka." },
+      { "title": "Bliskość", "text": "Więź między ludźmi, którzy dzielą ten wieczór." },
+      { "title": "Przynależność", "text": "Poczucie, że jest się mile widzianym, zauważonym i otoczonym troską." },
+      { "title": "Pamięć", "text": "Wrażenia, które zostają długo po zakończeniu wydarzenia." }
+    ], "text": "Chcemy, abyś Ty i Twoi goście pamiętali nie tylko, jak wyglądał event, ale przede wszystkim, jak się na nim czuliście." },
+    "manager": { "title": "Jedna osoba, która zna *każdy detal*", "text": "Każdy klient S59 ma swojego osobistego Event Managera — jedną osobę kontaktową od pierwszego spotkania aż do pożegnania.\n\nTwój Event Manager koordynuje zespół i wszystkich podwykonawców, pilnuje terminów i budżetu, przedstawia kluczowe decyzje wraz z jasnymi rekomendacjami i osobiście dba o jakość każdego elementu. Nie musisz dwa razy powtarzać swoich życzeń ani kontaktować się z dziesiątkami wykonawców." },
+    "principles": { "title": "Zasady *obsługi*", "items": [
+      { "title": "Przewidywanie", "text": "Przewidujemy Twoje potrzeby i rozwiązujemy kwestie, zanim się pojawią." },
+      { "title": "Personalizacja", "text": "Każde doświadczenie jest tworzone wokół Ciebie." },
+      { "title": "Niezawodność", "text": "Dotrzymujemy obietnic, terminów i budżetów." },
+      { "title": "Dbałość o detal", "text": "Nic nie jest zbyt małe, by miało znaczenie." },
+      { "title": "Emocjonalna więź", "text": "Tworzymy atmosferę i emocje, które zostają na długo." }
+    ] },
+    "where": { "title": "Z Warszawy. *Dla całej Europy.*", "text": "S59 ma siedzibę w Warszawie i działa w całej Polsce, rozwijając sieć sprawdzonych partnerów w Europie. Projekty międzynarodowe realizujemy na życzenie." },
+    "vision": { "eyebrow": "Nasza wizja", "text": "Stać się rozpoznawalną międzynarodową agencją eventową premium, znaną z estetycznego podejścia, oryginalnych koncepcji i wyjątkowych standardów realizacji — w Europie i poza nią." },
+    "cta": { "title": "Zacznijmy od *rozmowy*", "button": "Zapytaj o event" }
+  },
+  "servicesPage": {
+    "seo": { "title": "Usługi — organizacja przyjęć prywatnych, ślubów i eventów firmowych w Warszawie", "description": "Kompleksowa organizacja luksusowych urodzin, prywatnych kolacji, ślubów, przyjęć dla dzieci, gal firmowych i eventów marek w Warszawie i w Europie." },
+    "hero": { "eyebrow": "Usługi", "title": "Każda okazja zaprojektowana jako *doświadczenie*", "subtitle": "Niezależnie od tego, czy to kameralna kolacja dla dwunastu osób, czy gala dla kilkuset gości — każdy event S59 planujemy w całości, od pierwszego pomysłu do ostatniego detalu." },
+    "fullService": { "title": "Full-service. Pod klucz. *W pełni Twój.*", "text": "S59 to agencja eventowa full-service. Oznacza to, że otrzymujesz nie pojedynczą usługę, lecz kompletne rozwiązanie: koncepcję, budżet, miejsce, podwykonawców, design, obsługę gości, program i zarządzanie w dniu wydarzenia — wszystko w rękach jednego zespołu i jednego Event Managera." },
+    "extras": { "title": "Dodatki, które sprawiają, że event jest *naprawdę Twój*", "text": "Poza organizacją możemy dodać elementy, które pogłębiają doświadczenie. Mogą być częścią pakietu lub zostać wycenione osobno — realizowane przez nasz zespół lub sieć zaufanych partnerów.", "items": [
+      { "title": "Doświadczenie gości", "text": "Spersonalizowane zaproszenia, upominki powitalne, autorska papeteria, concierge dla gości, osobiste akcenty." },
+      { "title": "Rozrywka", "text": "Muzyka na żywo i DJ, artyści i występy specjalne, programy artystyczne, formaty interaktywne i nietypowe." },
+      { "title": "Event design", "text": "Autorskie dekoracje, florystyka, instalacje i fotościanki, scenografia, elementy brandingowe." },
+      { "title": "Foto i wideo", "text": "Fotografia, wideo, filmy podsumowujące, materiały zza kulis, treści do social mediów." },
+      { "title": "Gastronomia", "text": "Indywidualne menu, catering, bar i napoje, degustacje, autorskie koncepcje kulinarne." },
+      { "title": "Logistyka", "text": "Transfery VIP, transport gości, zakwaterowanie, koordynacja podróży." },
+      { "title": "Życzenia specjalne", "text": "Niespodzianki, wyjątkowe atrakcje i pomysły, które istnieją tylko dla Twojego wydarzenia." }
+    ] },
+    "cta": { "title": "Powiedz nam, co *świętujesz*", "button": "Zaplanuj swój event" }
+  },
+  "services": [
+    {
+      "slug": "private-celebrations",
+      "title": "Przyjęcia prywatne",
+      "short": "Luksusowe urodziny, rocznice, prywatne kolacje i rodzinne uroczystości — tworzone wokół osób, które świętujecie.",
+      "tags": "Luksusowe urodziny · Prywatne kolacje · Rocznice · Uroczystości rodzinne · Osobiste okazje",
+      "seo": { "title": "Organizacja luksusowych przyjęć i urodzin w Warszawie", "description": "Luksusowe urodziny, prywatne kolacje, rocznice i uroczystości rodzinne w Warszawie — w pełni zaplanowane, pięknie zaprojektowane i dyskretnie zrealizowane przez S59 Events." },
+      "hero": { "eyebrow": "Przyjęcia prywatne", "title": "Uroczystości tak wyjątkowe jak *ludzie, dla których powstają*", "subtitle": "Luksusowe urodziny, prywatne kolacje, rocznice i rodzinne święta — zaprojektowane wokół Twojej historii i zrealizowane z pełną dyskrecją.", "cta": "Zaplanuj przyjęcie" },
+      "intro": "Najważniejsze chwile w życiu rzadko dotyczą samego wydarzenia. Chodzi w nich o ludzi przy stole, wspólne wspomnienia i uczucie, które chcesz podarować bliskim.\n\nTworzymy przyjęcia prywatne, które są lekkie dla Ciebie i niezapomniane dla Twoich gości — podczas gdy o każdy detal dbamy dyskretnie w tle.",
+      "listTitle": "Co *tworzymy*",
+      "items": [
+        { "title": "Luksusowe urodziny", "text": "Od eleganckich jubileuszy po immersyjne wieczory tematyczne, zawsze wokół osoby, która jest w centrum." },
+        { "title": "Prywatne kolacje", "text": "Kameralne kolacje w wyjątkowych miejscach, z indywidualnym menu, dopracowaną aranżacją stołu i atmosferą sprzyjającą rozmowie." },
+        { "title": "Rocznice", "text": "Święto wspólnych lat, opowiedziane przez detale o osobistym znaczeniu." },
+        { "title": "Uroczystości rodzinne", "text": "Spotkania, które łączą pokolenia w komforcie i stylu." },
+        { "title": "Osobiste okazje", "text": "Każda chwila warta celebracji, stworzona dokładnie tak, jak ją sobie wyobrażasz." }
+      ],
+      "extraTitle": "Czego możesz *się spodziewać*",
+      "extraList": [
+        "Koncepcji stworzonej dla Ciebie, nigdy nie powtarzanej dla nikogo innego.",
+        "Osobistego Event Managera, który zajmuje się każdym dostawcą i każdą decyzją razem z Tobą.",
+        "Dostępu do wyjątkowych miejsc, prywatnych przestrzeni i zaufanych partnerów.",
+        "Pełnej poufności i dyskrecji.",
+        "Minimalnego zaangażowania z Twojej strony — Ty akceptujesz kluczowe decyzje, my zajmujemy się resztą.",
+        "Dnia, w którym możesz po prostu być ze swoimi gośćmi."
+      ],
+      "noteTitle": "Twoja prywatność jest częścią *naszej usługi*",
+      "noteText": "Wielu naszych klientów ceni prywatność tak samo jak piękno. Wszystkie szczegóły wydarzenia, lista gości i dane osobowe traktujemy z pełną poufnością. Nigdy nie publikujemy zdjęć z prywatnych wydarzeń bez Twojej wyraźnej zgody.",
+      "cta": { "title": "Co chcesz *świętować?*", "text": "", "button": "Zaplanuj swój event" }
+    },
+    {
+      "slug": "weddings-engagements",
+      "title": "Śluby i zaręczyny",
+      "short": "Przyjęcia zaręczynowe i śluby według Waszej własnej wizji, planowane ze spokojem i precyzją.",
+      "tags": "Śluby · Przyjęcia zaręczynowe · Kameralne ceremonie · Wydarzenia przedślubne",
+      "seo": { "title": "Wedding planner premium w Warszawie i Europie", "description": "Luksusowe śluby i przyjęcia zaręczynowe w Warszawie, w Polsce i w Europie. Kompleksowa organizacja, wyrafinowany design i spokojna, bezbłędna koordynacja." },
+      "hero": { "eyebrow": "Śluby i zaręczyny", "title": "Wasza historia, *pięknie opowiedziana*", "subtitle": "Śluby i przyjęcia zaręczynowe według Waszej własnej wizji — zaplanowane ze spokojem i precyzją, abyście mogli przeżyć każdą chwilę.", "cta": "Zacznijmy planować Wasz ślub" },
+      "intro": "Ślub to jeden z niewielu dni w życiu, które chce się pamiętać w każdym szczególe. Naszym zadaniem jest sprawić, że tak będzie.\n\nOd pierwszego pomysłu po ostatni taniec projektujemy uroczystość, która odzwierciedla Was jako parę — i zajmujemy się wszystkim za kulisami, aby Wy, Wasze rodziny i goście mogli być w pełni obecni.",
+      "listTitle": "Co *tworzymy*",
+      "items": [
+        { "title": "Śluby", "text": "Kompleksowe planowanie i design, od kameralnych ceremonii po wielkie przyjęcia." },
+        { "title": "Przyjęcia zaręczynowe", "text": "Eleganckie wieczory, by podzielić się początkiem Waszej historii z najbliższymi." },
+        { "title": "Wydarzenia przedślubne", "text": "Kolacje powitalne, próbne i spotkania, dzięki którym świętowanie trwa dłużej." },
+        { "title": "Śluby za granicą", "text": "Uroczystości w Polsce i Europie, koordynowane z naszą siecią zaufanych partnerów." }
+      ],
+      "extraTitle": "Jak planujemy *Wasz ślub*",
+      "extraList": [
+        "Wasza wizja — zaczynamy od słuchania: Waszej historii, stylu, priorytetów i atmosfery, o której marzycie.",
+        "Koncepcja — indywidualny kierunek designu z moodboardami, paletą kolorów, koncepcją florystyki i dekoracji.",
+        "Planowanie — miejsce, podwykonawcy, budżet, obsługa gości i harmonogram, koordynowane przez Waszego Event Managera.",
+        "Wasz dzień — nasz zespół czuwa nad każdą chwilą, abyście nie musieli patrzeć na zegarek ani odbierać telefonu."
+      ],
+      "noteTitle": "",
+      "noteText": "",
+      "cta": { "title": "Zacznijmy *Waszą historię*", "text": "", "button": "Zapytaj o organizację ślubu" }
+    },
+    {
+      "slug": "childrens-celebrations",
+      "title": "Przyjęcia dla dzieci",
+      "short": "Pełne wyobraźni, pięknie dopracowane przyjęcia dla najmłodszych — i beztroski dzień dla rodziców.",
+      "tags": "Luksusowe przyjęcia dla dzieci · Urodziny tematyczne · Autorskie koncepcje",
+      "seo": { "title": "Luksusowe przyjęcia dla dzieci i urodziny tematyczne w Warszawie", "description": "Pełne wyobraźni, pięknie zaprojektowane przyjęcia dla dzieci i urodziny tematyczne w Warszawie. Autorskie koncepcje, bezpieczna i płynna organizacja, spokój dla rodziców." },
+      "hero": { "eyebrow": "Przyjęcia dla dzieci", "title": "Tam, gdzie wyobraźnia *staje się rzeczywistością*", "subtitle": "Pięknie dopracowane przyjęcia dla najmłodszych gości — i spokojny, beztroski dzień dla ich rodziców.", "cta": "Zaplanuj przyjęcie" },
+      "intro": "Dzieci pamiętają, jak się czuły: zachwyt, gdy wchodzą do świata stworzonego specjalnie dla nich, niespodzianki, śmiech.\n\nProjektujemy przyjęcia dla dzieci z taką samą troską, estetyką i dbałością o detal jak każdy event S59 — z oryginalną koncepcją, dopracowanymi dekoracjami i programem dopasowanym do wieku i charakteru dziecka.",
+      "listTitle": "Co *tworzymy*",
+      "items": [
+        { "title": "Luksusowe przyjęcia dla dzieci", "text": "Eleganckie uroczystości, które zachwycą zarówno dzieci, jak i dorosłych." },
+        { "title": "Urodziny tematyczne", "text": "Immersyjne światy zbudowane wokół ulubionych bajek, kolorów i marzeń dziecka." },
+        { "title": "Autorskie koncepcje", "text": "Całkowicie oryginalne pomysły, tworzone od zera dla jednego, wyjątkowego przyjęcia." }
+      ],
+      "extraTitle": "Spokój *dla rodziców*",
+      "extraList": [
+        "Starannie wybrani, doświadczeni animatorzy i partnerzy.",
+        "Program dopasowany do wieku i rytmu dzieci.",
+        "Przemyślany komfort także dla dorosłych gości.",
+        "Koordynujący zespół na miejscu, abyś mógł cieszyć się chwilą razem z dzieckiem."
+      ],
+      "noteTitle": "",
+      "noteText": "",
+      "cta": { "title": "Stwórzmy dzień, którego *nigdy nie zapomną*", "text": "", "button": "Zaplanuj swój event" }
+    },
+    {
+      "slug": "corporate-events",
+      "title": "Eventy firmowe",
+      "short": "Gale, jubileusze firm, wieczory dla klientów VIP i spotkania zarządu, które odzwierciedlają standardy Twojej firmy.",
+      "tags": "Gale firmowe · Jubileusze firm · Eventy VIP · Networking · Konferencje · Imprezy dla zespołów",
+      "seo": { "title": "Agencja eventów firmowych w Warszawie — gale, eventy VIP i spotkania zarządu", "description": "Eventy firmowe premium w Warszawie i Europie: gale, jubileusze firm, wydarzenia dla klientów VIP, konferencje i imprezy dla zespołów — profesjonalnie zarządzane od briefu do realizacji." },
+      "hero": { "eyebrow": "Eventy firmowe", "title": "Eventy firmowe na miarę *Twoich standardów*", "subtitle": "Gale, jubileusze firm, wieczory dla klientów VIP i spotkania zarządu — profesjonalnie zarządzane, kreatywnie zaprojektowane i bezbłędnie zrealizowane.", "cta": "Poproś o ofertę" },
+      "intro": "Event firmowy mówi w imieniu Twojej firmy. Kształtuje to, jak postrzegają ją klienci, partnerzy i pracownicy — i jak czują się we współpracy z Tobą.\n\nS59 łączy rygorystyczne zarządzanie projektem z kreatywnym designem, realizując eventy, które wzmacniają relacje, wspierają cele biznesowe i pozostawiają trwałe wrażenie.",
+      "listTitle": "Co *tworzymy*",
+      "items": [
+        { "title": "Gale firmowe", "text": "Eleganckie wieczory z okazji świąt, nagród i ważnych momentów." },
+        { "title": "Jubileusze firm", "text": "Wydarzenia, które honorują historię i inspirują do kolejnych kroków." },
+        { "title": "Eventy dla klientów i partnerów VIP", "text": "Ekskluzywne doświadczenia, które budują lojalność i długotrwałe relacje." },
+        { "title": "Eventy biznesowe i networkingowe", "text": "Przemyślanie zaplanowane wieczory, które ułatwiają wartościowe kontakty." },
+        { "title": "Konferencje i spotkania zarządu", "text": "Płynna organizacja spotkań kadry kierowniczej, wyjazdów i spotkań biznesowych." },
+        { "title": "Imprezy dla zespołów", "text": "Imprezy firmowe i wydarzenia, na które Twoi ludzie naprawdę czekają." },
+        { "title": "Eventy wizerunkowe", "text": "Otwarcia, prezentacje i wydarzenia, które ożywiają tożsamość Twojej firmy." }
+      ],
+      "extraTitle": "Dlaczego firmy *wybierają S59*",
+      "extraList": [
+        "Profesjonalne zarządzanie projektem — jasny plan, określone etapy i jeden odpowiedzialny Event Manager.",
+        "Przejrzysta kontrola budżetu — szczegółowy budżet zatwierdzony z góry; każda zmiana uzgadniana przed jej wprowadzeniem.",
+        "Koncepcje spójne z marką — kreatywne pomysły, które odzwierciedlają tożsamość i cele Twojej firmy.",
+        "Sprawdzeni dostawcy — wyselekcjonowana sieć miejsc, zespołów produkcyjnych i specjalistów.",
+        "Zarządzanie ryzykiem — plany awaryjne przygotowane z wyprzedzeniem, aby wszystko przebiegło płynnie.",
+        "Jasna komunikacja — regularne informacje dla działów marketingu, HR lub zarządu i szybka reakcja, gdy jest potrzebna."
+      ],
+      "noteTitle": "Z kim *pracujemy*",
+      "noteText": "Współpracujemy z firmami międzynarodowymi, korporacjami i biznesem premium, a także z założycielami firm, zarządami, działami marketingu i HR oraz asystentami zarządu, którzy potrzebują partnera eventowego, na którym mogą w pełni polegać.",
+      "cta": { "title": "Planujesz *event firmowy?*", "text": "Prześlij nam brief, a przygotujemy indywidualną ofertę z koncepcją, zakresem i wstępnym budżetem.", "button": "Poproś o ofertę" }
+    },
+    {
+      "slug": "brand-lifestyle-events",
+      "title": "Eventy marek",
+      "short": "Premiery produktów, aktywacje marki i prywatne kolacje, które zamieniają odbiorców w trwałą relację.",
+      "tags": "Premiery produktów · Aktywacje marki · Eventy dla influencerów · Eventy prasowe · Doświadczenia VIP · Prywatne kolacje marek",
+      "seo": { "title": "Aktywacje marki, premiery produktów i eventy dla influencerów w Warszawie", "description": "Premiery produktów, aktywacje marki, eventy dla influencerów i prasy, doświadczenia VIP i prywatne kolacje marek — zaprojektowane, by budować emocjonalną więź z odbiorcami." },
+      "hero": { "eyebrow": "Eventy marek i lifestyle", "title": "Doświadczenia, które łączą *marki z ludźmi*", "subtitle": "Premiery produktów, aktywacje marki i prywatne kolacje dla marek z branży fashion, beauty, hospitality i lifestyle.", "cta": "Porozmawiajmy o współpracy" },
+      "intro": "Ludzie pamiętają marki, które wywołują w nich emocje. Projektujemy doświadczenia, które przekładają tożsamość Twojej marki na atmosferę, zaangażowanie i prawdziwą więź — z klientami, społecznością i mediami.",
+      "listTitle": "Co *tworzymy*",
+      "items": [
+        { "title": "Premiery produktów", "text": "Zapadające w pamięć prezentacje nowych produktów i kolekcji." },
+        { "title": "Aktywacje marki", "text": "Immersyjne doświadczenia, które ożywiają markę." },
+        { "title": "Eventy dla influencerów", "text": "Pięknie zaprojektowane wydarzenia, które chce się przeżyć — i udostępnić." },
+        { "title": "Eventy prasowe", "text": "Profesjonalne prezentacje dla mediów i gości z branży." },
+        { "title": "Doświadczenia VIP", "text": "Ekskluzywne wydarzenia dla najważniejszych klientów marki." },
+        { "title": "Prywatne kolacje marek", "text": "Kameralne kolacje, które budują relacje wokół Twojej marki." }
+      ],
+      "extraTitle": "",
+      "extraList": [],
+      "noteTitle": "",
+      "noteText": "",
+      "cta": { "title": "Stwórzmy kolejny *wyjątkowy moment* Twojej marki", "text": "", "button": "Porozmawiajmy o współpracy" }
+    }
+  ],
+  "packagesPage": {
+    "seo": { "title": "Pakiety organizacji eventów — Signature, Exclusive, Bespoke", "description": "Trzy poziomy kompleksowej organizacji eventów: S59 Signature, S59 Exclusive i S59 Bespoke. Każdy pakiet to pełna organizacja pod klucz — różnica tkwi w głębi." },
+    "hero": { "eyebrow": "Formy współpracy", "title": "Trzy pakiety. *Jeden standard doskonałości.*", "subtitle": "Każdy pakiet S59 to pełna organizacja eventu pod klucz — od pierwszego pomysłu do ostatniego detalu. Różnica nie leży w tym, co jest zawarte, lecz w tym, jak głęboko dopracowany jest każdy element." },
+    "packages": [
+      { "key": "signature", "name": "S59 Signature", "subtitle": "Kompletny event pod klucz z indywidualną koncepcją.", "text": "Dla klientów, którzy chcą pięknego, przemyślanego i profesjonalnie zrealizowanego wydarzenia z indywidualną koncepcją i pełnym wsparciem zespołu S59.", "includesTitle": "W pakiecie", "includes": ["Pierwsza konsultacja i szczegółowy brief", "Indywidualna koncepcja wydarzenia", "Budżet i plan realizacji", "Wyszukanie i wybór miejsca", "Dobór i koordynacja wszystkich podwykonawców", "Dekoracje, florystyka i aranżacja przestrzeni", "Catering i napoje", "Rozrywka, artyści i prowadzący", "Obsługa techniczna", "Zaproszenia i zarządzanie listą gości", "Szczegółowy harmonogram wydarzenia", "Koordynacja wszystkich przygotowań", "Nadzór nad montażem na miejscu", "Obecność zespołu S59 i zarządzanie wydarzeniem w dniu eventu", "Nadzór nad demontażem i zakończeniem prac"], "cta": "Zapytaj o Signature" },
+      { "key": "exclusive", "name": "S59 Exclusive", "subtitle": "Organizacja pod klucz z rozszerzoną personalizacją i obsługą.", "text": "Dla klientów, którzy chcą głębszej koncepcji kreatywnej, wyjątkowej atmosfery, bardziej rozbudowanego designu i wyższego poziomu troski o każdego gościa.", "includesTitle": "Wszystko z pakietu Signature, a dodatkowo", "includes": ["Pogłębiona koncepcja kreatywna i scenariusz wydarzenia", "Indywidualny event design i bardziej złożona aranżacja", "Spersonalizowane detale w całym wydarzeniu", "Rozszerzony wybór ekskluzywnych miejsc i podwykonawców", "Szersze możliwości rozrywki i występy specjalne", "Spersonalizowane zaproszenia i upominki powitalne", "Rozszerzone doświadczenie gości i ich opieka", "Dodatkowi koordynatorzy i specjaliści, zależnie od skali", "Szczegółowe dopracowanie atmosfery, oprawy wizualnej i interakcji z gośćmi", "Rozszerzona produkcja techniczna i kreatywna"], "cta": "Zapytaj o Exclusive" },
+      { "key": "bespoke", "name": "S59 Bespoke", "subtitle": "Całkowicie autorski event, tworzony od czystej kartki.", "text": "Dla klientów, którzy chcą zrealizować niezwykły pomysł — projekt na dużą skalę, wielodniową uroczystość lub wydarzenie o wyjątkowych wymaganiach kreatywnych, produkcyjnych i serwisowych.", "includesTitle": "Wszystko z pakietu Exclusive, a dodatkowo", "includes": ["Unikalna koncepcja stworzona od zera", "W pełni indywidualny projekt przestrzeni, dekoracji i scenografii", "Ekskluzywne dekoracje i niestandardowe rozwiązania produkcyjne", "Wyjątkowi artyści, wykonawcy i partnerzy międzynarodowi", "Złożone scenariusze i wielowarstwowe programy", "Wydarzenia wielodniowe i w kilku lokalizacjach", "Dedykowany zespół projektowy", "Rozszerzona obsługa VIP i concierge", "Maksymalna personalizacja każdego elementu", "Osobiste wsparcie przez cały projekt", "Realizacja niestandardowych pomysłów i specjalnych życzeń"], "cta": "Zapytaj o Bespoke" }
+    ],
+    "compare": { "title": "Porównanie *pakietów*", "text": "Wszystkie trzy pakiety obejmują pełny cykl organizacji. Porównanie pokazuje nie liczbę usług, lecz głębię ich dopracowania i poziom obsługi.", "headers": ["", "Signature", "Exclusive", "Bespoke"], "rows": [
+      ["Organizacja pod klucz", "Pełna", "Pełna", "Pełna"],
+      ["Koncepcja wydarzenia", "Indywidualna", "Rozszerzona", "Całkowicie unikalna"],
+      ["Wybór miejsca i podwykonawców", "W cenie", "Rozszerzony wybór", "Indywidualny dobór"],
+      ["Planowanie i budżet", "Pełne", "Pełne", "W pełni indywidualne"],
+      ["Koordynacja", "Pełna", "Rozszerzona", "Dedykowany zespół"],
+      ["Event design i dekoracje", "W ramach koncepcji", "Rozszerzone", "Ekskluzywne"],
+      ["Personalizacja", "Indywidualne podejście", "Rozszerzona", "Maksymalna"],
+      ["Doświadczenie gości", "W pełni zorganizowane", "Rozszerzona obsługa", "VIP i concierge"],
+      ["Rozrywka", "Dopasowana do formatu", "Rozszerzone możliwości", "Ekskluzywne rozwiązania"],
+      ["Produkcja techniczna", "Według potrzeb projektu", "Rozszerzone możliwości", "Produkcja na zamówienie"],
+      ["Zespół w dniu wydarzenia", "Pełna koordynacja", "Rozszerzony zespół", "Dedykowany zespół"],
+      ["Projekty złożone i wielodniowe", "Na zapytanie", "Zależnie od projektu", "Główny kierunek"]
+    ] },
+    "pricing": { "title": "Jak kształtujemy *Twoją inwestycję*", "text": "Każdy event S59 jest wyjątkowy, dlatego nie mamy stałego cennika. Wycena powstaje indywidualnie i zależy od:", "factors": ["formatu i rodzaju wydarzenia", "liczby gości", "złożoności i skali koncepcji", "wybranego miejsca", "zakresu dekoracji i produkcji", "zaangażowanych partnerów i podwykonawców", "wymaganego poziomu obsługi", "czasu trwania wydarzenia", "Twoich indywidualnych życzeń"], "after": "Po pierwszej konsultacji przygotowujemy indywidualną ofertę z koncepcją, zakresem usług, wstępnym budżetem i warunkami realizacji — abyś przed podjęciem decyzji wiedział dokładnie, co jest zawarte." },
+    "help": { "title": "Nie wiesz, który pakiet *wybrać?*", "text": "Nie musisz decydować teraz. Opowiedz nam o swoim wydarzeniu, a doradzimy poziom organizacji najlepiej pasujący do Twojej wizji.", "button": "Umów konsultację", "calc": "Sprawdź wycenę" }
+  },
+  "approachPage": {
+    "seo": { "title": "Jak pracujemy — proces organizacji eventu od pomysłu do realizacji", "description": "Jak pracuje S59 Events: konsultacja, indywidualna koncepcja, budżet, miejsca i podwykonawcy, design i produkcja, obsługa gości, prowadzenie wydarzenia i opieka po evencie." },
+    "hero": { "eyebrow": "Nasze podejście", "title": "Ty cieszysz się chwilą. *My zarządzamy procesem.*", "subtitle": "Jasny, starannie uporządkowany proces — aby każdy detal był pod kontrolą, a przygotowania sprawiały Ci tyle samo przyjemności, co samo wydarzenie." },
+    "steps": [
+      { "title": "Konsultacja i brief", "text": "Zaczynamy od osobistego spotkania, aby poznać Twoje cele, życzenia i atmosferę, którą chcesz stworzyć. Omawiamy format, datę, liczbę gości, budżet i poziom obsługi. Naszym celem jest nie tylko otrzymać brief, ale zrozumieć emocje, które chcesz podarować gościom." },
+      { "title": "Koncepcja i oferta", "text": "Rozwijamy pomysł, motyw i atmosferę wydarzenia — z moodboardami, inspiracjami wizualnymi i strukturą programu. Otrzymujesz indywidualną ofertę z koncepcją, rekomendacjami miejsc i designu, wstępnym budżetem i proponowanym pakietem. Nie zostawiamy Cię z listą opcji — przedstawiamy przemyślane rekomendacje." },
+      { "title": "Potwierdzenie i planowanie", "text": "Po akceptacji oferty podpisujemy umowę, potwierdzamy budżet i zakres oraz przydzielamy Ci osobistego Event Managera. Wspólnie ustalamy harmonogram komunikacji i kluczowe etapy projektu." },
+      { "title": "Miejsce, partnerzy i design", "text": "Wybieramy i rezerwujemy miejsce, dobieramy i koordynujemy wszystkich podwykonawców — dekoratorów, florystów, catering, fotografów, ekipy techniczne, artystów — oraz nadzorujemy produkcję każdego autorskiego elementu. Budżet kontrolujemy na każdym etapie, a każdą zmianę uzgadniamy z Tobą wcześniej." },
+      { "title": "Goście i program", "text": "Zajmujemy się zaproszeniami, potwierdzeniami obecności i rozsadzeniem, przygotowujemy powitanie, upominki i osobiste akcenty, a w razie potrzeby organizujemy transfery i noclegi. Równolegle budujemy program: prowadzący, muzyka, występy i momenty interaktywne — wszystko według precyzyjnego harmonogramu." },
+      { "title": "Ostatnie przygotowania", "text": "Przed wydarzeniem potwierdzamy wszystkich podwykonawców, sprawdzamy miejsce i technikę, zatwierdzamy harmonogram i liczbę gości, instruujemy zespół i przygotowujemy rozwiązania awaryjne." },
+      { "title": "Dzień wydarzenia", "text": "Nasz zespół nadzoruje montaż, sprawdza każdy element, koordynuje podwykonawców, wita gości i pilnuje harmonogramu. Każdą kwestię rozwiązujemy dyskretnie, bez angażowania Ciebie — abyś mógł być w pełni obecny." },
+      { "title": "Po wydarzeniu", "text": "Nadzorujemy demontaż, zamykamy wszystkie sprawy organizacyjne i finansowe, przekazujemy zdjęcia i filmy przygotowane przez partnerów i prosimy o Twoją opinię. Dla nas relacja nie kończy się wraz z wydarzeniem." }
+    ],
+    "comms": { "title": "Nasza obietnica *komunikacji*", "items": ["Odpowiedź na każde zapytanie w ciągu jednego dnia roboczego.", "Żadna wiadomość nie zostaje bez odpowiedzi.", "Regularne informacje o postępach projektu.", "Jasne wyjaśnienie terminów, etapów i decyzji, których potrzebujemy od Ciebie.", "Konkretne rekomendacje zamiast otwartych pytań.", "Każda zmiana budżetu uzgadniana przed jej wprowadzeniem.", "Szybka reakcja w pilnych sprawach.", "Pełna poufność wszystkich informacji."] },
+    "cta": { "title": "Gotowy, by *zacząć?*", "button": "Umów konsultację" }
+  },
+  "portfolioPage": {
+    "seo": { "title": "Portfolio — luksusowe przyjęcia prywatne i eventy firmowe", "description": "Wybrane przyjęcia prywatne, śluby i eventy firmowe stworzone przez S59 Events w Warszawie i w Europie." },
+    "hero": { "eyebrow": "Portfolio", "title": "Wybrane *realizacje*", "subtitle": "Spojrzenie na światy, które stworzyliśmy." },
+    "all": "Wszystkie",
+    "empty": "Przygotowujemy nasze pierwsze historie. Obserwuj nas na Instagramie, aby zobaczyć nowe projekty na bieżąco.",
+    "briefLabel": "Brief",
+    "conceptLabel": "Koncepcja",
+    "detailsLabel": "Detale",
+    "guestsLabel": "Goście",
+    "backLabel": "Wszystkie realizacje",
+    "cta": { "title": "Wyobraź sobie *swój event*", "button": "Zaplanuj swój event" }
+  },
+  "faqPage": {
+    "seo": { "title": "Najczęściej zadawane pytania", "description": "Odpowiedzi na najczęstsze pytania o organizację eventu prywatnego lub firmowego z S59 Events: pakiety, wycena, terminy, lokalizacje i poufność." },
+    "hero": { "eyebrow": "FAQ", "title": "Najczęściej zadawane *pytania*" },
+    "items": [
+      { "q": "Co oznacza „full-service”?", "a": "Zajmujemy się całym wydarzeniem — koncepcją, budżetem, miejscem, podwykonawcami, designem, gośćmi, programem i prowadzeniem eventu w dniu wydarzenia. Przez cały proces masz jednego partnera i jednego osobistego Event Managera." },
+      { "q": "Czym różnią się pakiety Signature, Exclusive i Bespoke?", "a": "Wszystkie trzy to pełne pakiety organizacji pod klucz. Różnią się głębią personalizacji, złożonością kreatywną, skalą produkcji i poziomem obsługi gości. Signature to kompletny event z indywidualną koncepcją; Exclusive dodaje pogłębiony design i rozszerzoną obsługę gości; Bespoke jest tworzony całkowicie od zera, bez ograniczeń." },
+      { "q": "Ile kosztuje event?", "a": "Każde wydarzenie jest wyjątkowe, dlatego wyceniamy je indywidualnie — w zależności od formatu, liczby gości, miejsca, zakresu designu i produkcji oraz poziomu obsługi. Orientacyjny przedział sprawdzisz w naszej wycenie online, a po pierwszej konsultacji otrzymasz indywidualną ofertę ze wstępnym budżetem." },
+      { "q": "Z jakim wyprzedzeniem należy się z Wami skontaktować?", "a": "Zalecamy 3–6 miesięcy w przypadku przyjęć prywatnych i eventów firmowych oraz 9–12 miesięcy w przypadku ślubów i dużych projektów. Jeśli termin jest bliżej — napisz mimo to. Zawsze szczerze powiemy, co jest możliwe." },
+      { "q": "Czy pracujecie tylko w Warszawie?", "a": "Mamy siedzibę w Warszawie i działamy w całej Polsce. Organizujemy również wydarzenia w Europie, a projekty międzynarodowe realizujemy na życzenie." },
+      { "q": "Czy możecie współpracować z wybranym przeze mnie miejscem lub dostawcą?", "a": "Oczywiście. Chętnie współpracujemy z wybranym miejscem lub partnerami i włączamy ich w całą koncepcję i koordynację." },
+      { "q": "Jak bardzo będę musiał się angażować?", "a": "Tyle, ile chcesz. Ty akceptujesz kluczowe decyzje, my zajmujemy się resztą. Nasza zasada jest prosta: ciesz się chwilą, organizację zostaw nam." },
+      { "q": "Czy będę mieć jedną osobę kontaktową?", "a": "Tak. Twój osobisty Event Manager jest jedyną osobą kontaktową od pierwszego spotkania do pożegnania." },
+      { "q": "Czy organizujecie kameralne wydarzenia?", "a": "Tak. O evencie S59 nie decyduje skala, lecz troska. Kameralne kolacje planujemy z taką samą starannością jak duże uroczystości." },
+      { "q": "Czy moje dane pozostaną poufne?", "a": "Zawsze. Wszystkie szczegóły wydarzenia, informacje o gościach i dane osobowe traktujemy z pełną dyskrecją. Nigdy nie publikujemy zdjęć z prywatnych wydarzeń bez Twojej zgody." },
+      { "q": "Czy możecie zorganizować transfery i noclegi dla gości?", "a": "Tak. Organizujemy transfery VIP, transport gości, zakwaterowanie i pełną koordynację podróży." },
+      { "q": "Czy organizujecie eventy firmowe poza Polską?", "a": "Tak. Koordynujemy wydarzenia w całej Europie dzięki naszej sieci zaufanych partnerów." },
+      { "q": "Co dzieje się po wysłaniu zapytania?", "a": "Odpowiadamy w ciągu jednego dnia roboczego, aby umówić osobistą konsultację — w Warszawie, telefonicznie lub online." }
+    ],
+    "cta": { "text": "Masz jeszcze pytanie? Chętnie pomożemy.", "button": "Skontaktuj się z nami" }
+  },
+  "calculatorPage": {
+    "seo": { "title": "Wycena eventu online", "description": "Sprawdź orientacyjny budżet przyjęcia prywatnego, ślubu lub eventu firmowego w Warszawie w niecałą minutę." },
+    "hero": { "eyebrow": "Wycena eventu", "title": "Zaplanuj swoją *inwestycję*", "subtitle": "Wybierz rodzaj wydarzenia, liczbę gości i poziom organizacji. Zobaczysz orientacyjny przedział budżetu — dokładną ofertę przygotujemy po osobistej konsultacji." },
+    "typeLabel": "Rodzaj wydarzenia",
+    "guestsLabel": "Liczba gości",
+    "packageLabel": "Poziom organizacji",
+    "extrasLabel": "Dodatki",
+    "resultLabel": "Orientacyjny budżet",
+    "fromLabel": "od",
+    "toLabel": "do",
+    "perGuest": "na gościa",
+    "includes": "Obejmuje koncepcję, planowanie, koordynację miejsca i podwykonawców, dekoracje, catering i prowadzenie wydarzenia na wybranym poziomie.",
+    "disclaimer": "To orientacyjny przedział, a nie oferta handlowa. Ostateczny budżet zależy od miejsca, terminu, zakresu produkcji i Twoich życzeń i jest potwierdzany w indywidualnej ofercie.",
+    "send": "Wyślij tę wycenę i zapytaj o event",
+    "contact": "Wolisz porozmawiać? Zadzwoń lub napisz."
+  },
+  "contactPage": {
+    "seo": { "title": "Kontakt — zaplanuj event z S59 Events, Warszawa", "description": "Opowiedz nam o swoim wydarzeniu. S59 Events odpowiada w ciągu jednego dnia roboczego, aby umówić osobistą konsultację." },
+    "hero": { "eyebrow": "Zapytaj o event", "title": "Stwórzmy coś *niezapomnianego*", "subtitle": "Opowiedz nam o chwili, którą chcesz stworzyć. Każdy szczegół pomaga nam zrozumieć Twoją wizję — odpowiemy w ciągu jednego dnia roboczego, aby umówić osobistą konsultację." },
+    "form": {
+      "aboutYou": "O Tobie",
+      "yourEvent": "Twoje wydarzenie",
+      "name": "Imię i nazwisko",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "company": "Firma (w przypadku eventów firmowych)",
+      "contactPref": "Preferowana forma kontaktu",
+      "contactPrefOptions": ["E-mail", "Telefon", "WhatsApp", "Telegram"],
+      "eventType": "Rodzaj wydarzenia",
+      "eventTypeOther": "Inne",
+      "date": "Preferowana data lub pora roku",
+      "guests": "Przewidywana liczba gości",
+      "guestsOptions": ["do 20", "20–50", "50–100", "100–200", "200+"],
+      "location": "Lokalizacja",
+      "locationOptions": ["Warszawa", "Inne miejsce w Polsce", "Europa / za granicą"],
+      "venue": "Miejsce",
+      "venueOptions": ["Mam już miejsce", "Potrzebuję pomocy w wyborze"],
+      "package": "Interesujący pakiet",
+      "packageNotSure": "Jeszcze nie wiem — proszę o radę",
+      "budget": "Przewidywany budżet",
+      "budgetOptions": ["do 30 000 zł", "30 000 – 60 000 zł", "60 000 – 120 000 zł", "120 000 – 250 000 zł", "powyżej 250 000 zł", "Wolę omówić podczas rozmowy"],
+      "vision": "Opowiedz nam o swojej wizji",
+      "visionPlaceholder": "Okazja, atmosfera, którą sobie wyobrażasz, wszystko, co jest dla Ciebie ważne…",
+      "source": "Skąd o nas wiesz?",
+      "sourceOptions": ["Instagram", "LinkedIn", "Polecenie", "Miejsce / partner", "Wyszukiwarka", "Inne"],
+      "consent": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez S59 Events w celu odpowiedzi na zapytanie, zgodnie z Polityką prywatności.",
+      "submit": "Wyślij zapytanie",
+      "note": "Odpowiadamy w ciągu jednego dnia roboczego. Twoje dane pozostają ściśle poufne.",
+      "estimate": "Twoja wycena",
+      "select": "Wybierz…",
+      "required": "wymagane"
+    },
+    "direct": { "title": "Wolisz porozmawiać *bezpośrednio?*", "phone": "Telefon / WhatsApp", "email": "E-mail", "instagram": "Instagram", "studio": "Studio", "studioValue": "Warszawa — spotkania po wcześniejszym umówieniu", "hours": "Godziny", "hoursValue": "Poniedziałek – piątek, 10:00 – 19:00. W dni wydarzeń — zawsze." },
+    "thanks": { "seoTitle": "Dziękujemy", "title": "*Dziękujemy*", "text": "Twoje zapytanie zostało przyjęte. Twoja wizja jest w dobrych rękach.", "text2": "Ktoś z naszego zespołu skontaktuje się z Tobą w ciągu jednego dnia roboczego, aby umówić osobistą konsultację. W międzyczasie zapraszamy do naszego świata na Instagramie.", "instagram": "Obserwuj na Instagramie", "back": "Wróć na stronę główną" },
+    "autoReply": { "subject": "Dziękujemy za zapytanie — S59 Events", "body": "Dzień dobry {name},\n\ndziękujemy za kontakt z S59 Events. Bardzo nam miło, że bierzesz nas pod uwagę przy organizacji swojego wydarzenia.\n\nOtrzymaliśmy Twoje zapytanie i skontaktujemy się w ciągu jednego dnia roboczego, aby umówić osobistą konsultację, podczas której szczegółowo poznamy Twoją wizję.\n\nSerdecznie pozdrawiamy,\nZespół S59 Events\nWhere Every Detail Shapes the Experience." }
+  },
+  "footer": { "tagline": "Where Every Detail Shapes the Experience.", "explore": "Odkryj", "services": "Usługi", "contact": "Kontakt", "follow": "Obserwuj", "rights": "Wszelkie prawa zastrzeżone.", "privacy": "Polityka prywatności", "cookies": "Polityka cookies", "terms": "Regulamin" },
+  "legal": {
+    "privacy": { "title": "Polityka *prywatności*", "body": "Niniejsza Polityka prywatności wyjaśnia, w jaki sposób S59 Events przetwarza dane osobowe przekazane za pośrednictwem tej strony.\n\n**Administrator danych**\nAdministratorem Twoich danych osobowych jest S59 Events z siedzibą w Warszawie. Dane firmy znajdują się w stopce strony. Możesz skontaktować się z nami, korzystając z danych na stronie Kontakt.\n\n**Jakie dane zbieramy**\nWysyłając zapytanie, przekazujesz nam: imię i nazwisko, adres e-mail, numer telefonu, nazwę firmy (jeśli ją podasz) oraz informacje o planowanym wydarzeniu. Przechowujemy również informacje techniczne niezbędne do zapewnienia bezpieczeństwa strony.\n\n**W jakim celu przetwarzamy dane**\nPrzetwarzamy dane, aby odpowiedzieć na zapytanie, przygotować ofertę, a w przypadku współpracy — zaplanować i zrealizować wydarzenie (art. 6 ust. 1 lit. b RODO), a także na podstawie zgody wyrażonej w formularzu (art. 6 ust. 1 lit. a RODO).\n\n**Jak długo przechowujemy dane**\nZapytania, które nie zakończyły się współpracą, usuwamy najpóźniej po 24 miesiącach od ostatniego kontaktu. Dane klientów przechowujemy przez okres wymagany przepisami prawa rachunkowego i podatkowego.\n\n**Odbiorcy danych**\nTwoje dane mogą być przetwarzane przez dostawców hostingu i poczty e-mail oraz przez zaufanych partnerów zaangażowanych w Twoje wydarzenie — wyłącznie w niezbędnym zakresie. Nigdy nie sprzedajemy danych.\n\n**Twoje prawa**\nMasz prawo dostępu do danych, ich sprostowania i usunięcia, ograniczenia przetwarzania, przenoszenia danych, cofnięcia zgody w dowolnym momencie oraz wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (UODO).\n\n**Kontakt**\nW sprawach dotyczących danych osobowych skontaktuj się z nami, korzystając z danych na stronie Kontakt." },
+    "cookies": { "title": "Polityka *cookies*", "body": "Ta strona korzysta wyłącznie z plików cookies niezbędnych do jej prawidłowego działania, np. do zapamiętania wybranego języka.\n\nJeśli w przyszłości dodamy narzędzia analityczne lub marketingowe, najpierw poprosimy o Twoją zgodę i zaktualizujemy tę politykę.\n\nPliki cookies możesz w każdej chwili usunąć lub zablokować w ustawieniach przeglądarki." },
+    "terms": { "title": "*Regulamin*", "body": "Operatorem tej strony jest S59 Events z siedzibą w Warszawie.\n\nWszystkie teksty, zdjęcia, filmy i elementy graficzne na tej stronie, w tym logo S59, są własnością S59 Events lub są wykorzystywane za zgodą ich autorów. Nie mogą być kopiowane ani wykorzystywane bez naszej pisemnej zgody.\n\nInformacje na stronie, w tym wycena online, mają charakter wyłącznie informacyjny i nie stanowią oferty w rozumieniu Kodeksu cywilnego. Warunki każdego wydarzenia określa indywidualna umowa.\n\nDokładamy wszelkich starań, aby informacje na stronie były aktualne i poprawne, jednak nie ponosimy odpowiedzialności za ewentualne błędy lub przerwy w działaniu strony." }
+  },
+  "ui": { "cookieText": "Używamy wyłącznie niezbędnych plików cookies.", "cookieAccept": "OK", "notFoundTitle": "Ta strona *opuściła przyjęcie*", "notFoundText": "Strona, której szukasz, nie istnieje — ale wciąż czeka na Ciebie coś pięknego.", "backHome": "Wróć na stronę główną", "formError": "Uzupełnij zaznaczone pola, abyśmy mogli się z Tobą skontaktować.", "formSendError": "Coś poszło nie tak. Spróbuj ponownie lub skontaktuj się z nami telefonicznie albo przez Instagram.", "sending": "Wysyłanie…", "skip": "Przejdź do treści", "scroll": "Przewiń" }
+}
